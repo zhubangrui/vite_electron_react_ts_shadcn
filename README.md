@@ -1,4 +1,6 @@
-# electron_react_ts_shadcn
+# vite_electron_react_ts_shadcn
+
+![image-20240517234159787](README.assets/image-20240517234159787.png)
 
 An Electron application with React and TypeScript
 
